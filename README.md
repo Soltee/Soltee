@@ -1,12 +1,13 @@
-### Hello World 👋
+### H! 👋
 
 Here are some ideas to get you started:
 
 <!-- - 🌱 I’m currently learning ... DSA  -->
-- I’m currently learning ... DSA
-- Would love to contribute on open source projects.
+- Currently learning how to build a chatbot using open AI.
+- Experience in Laravel and React. Also worked with Vuejs
+- 
 <!-- - 👯 I’m looking to collaborate on ...  -->
 <!-- - 💬 Ask me about ...  Projects -->
-- 📫 How to reach me: ... Mail: meprabingrg@gmail.com
+- 📫 How to reach me: ... Mail: megrgprabin@gmail.com
 
 ### Happy Coding 👋
